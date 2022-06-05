@@ -1,0 +1,33 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: DB PhD
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Welcome to my Blog!"
+    Content: I am a nondestructive evaluation (NDE) technology expert and enthusiast! I consume different types of media and write about how they may apply to my NDE research to increase my understanding. I hope you finds these posts useful.
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: github
+      url: "https://github.com/"
+
+  DateFormat: "January 2, 2006"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 20
