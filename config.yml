@@ -5,7 +5,7 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Welcome to my Blog!"
+    Title: "Welcome to my Website!"
     Content: I am a nondestructive evaluation (NDE) technology expert and enthusiast! I consume different types of media and write about how they may apply to my NDE research to increase my understanding. I hope you finds these posts useful.
   socialIcons:
     - name: twitter
