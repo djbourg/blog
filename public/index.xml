@@ -2,53 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DB PhD</title>
-    <link>http://example.org/</link>
+    <link>https://www.desmondbourgeois.com/</link>
     <description>Recent content on DB PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 May 2022 06:48:15 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jun 2022 13:54:26 -0400</lastBuildDate><atom:link href="https://www.desmondbourgeois.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can refractory alloys help build a sustainable moon base?</title>
+      <link>https://www.desmondbourgeois.com/posts/004/</link>
+      <pubDate>Wed, 08 Jun 2022 13:54:26 -0400</pubDate>
+      
+      <guid>https://www.desmondbourgeois.com/posts/004/</guid>
+      <description>I am a sucker for anything that has to do with space and the cosmos. From trying to understand black holes to the possibility of terraforming Venus is very fascinating to me. So I recently ran across a Kurzgesagt YouTube video (my social media of choice) that talked about building a sustainable colony on the moon [1]. Once I found this video I watched it multiple times, because 1) I enjoy the animation style of Kurzgesagt and 2) the Kurzgesagt team often make videos that allow me to think and imagine how my research can be used for futuristic applications.</description>
+    </item>
+    
     <item>
       <title>Retrospect on Angle Beam Ultrasonic Spectroscopy Technology</title>
-      <link>http://example.org/post/003/</link>
+      <link>https://www.desmondbourgeois.com/post/003/</link>
       <pubDate>Sat, 21 May 2022 06:48:15 -0400</pubDate>
       
-      <guid>http://example.org/post/003/</guid>
+      <guid>https://www.desmondbourgeois.com/post/003/</guid>
       <description>Ultrasonic technology is causing a shift in the nondestructive evaluation (NDE) and testing (NDT) industry. Many companies are moving toward ultrasonic testing (UT) as an alternative to radiographic testing (RT). UT uses ultrasonic waves to perform weld inspection, while RT uses x-rays to perform weld inspection. In my career, I have used more RT than UT for oil and gas weld inspection. This is not to say that RT is better than UT, but there are more UT solutions finding their way into the NDE market.</description>
     </item>
     
     <item>
       <title>Can X-rays Generated from Black Holes be Used for Nondestructive Evaluation on Welds?</title>
-      <link>http://example.org/post/002/</link>
+      <link>https://www.desmondbourgeois.com/post/002/</link>
       <pubDate>Sun, 08 May 2022 06:29:48 -0400</pubDate>
       
-      <guid>http://example.org/post/002/</guid>
+      <guid>https://www.desmondbourgeois.com/post/002/</guid>
       <description>I taught a lecture on radiation source in my introduction to nondestructive evaluation (NDE) course in late March 2022. During the lecture I thought to myself, “What if you could use a black hole as your x-ray source?” I know that this idea is far from being possible with today’s current technology and may be a bit controversial. But, I wonder how the NDE industry (particularly radiography) would change if using black holes was feasible.</description>
     </item>
     
     <item>
       <title>Can modern marketing make engineering more accessible?</title>
-      <link>http://example.org/post/001/</link>
+      <link>https://www.desmondbourgeois.com/post/001/</link>
       <pubDate>Fri, 29 Apr 2022 06:01:24 -0400</pubDate>
       
-      <guid>http://example.org/post/001/</guid>
+      <guid>https://www.desmondbourgeois.com/post/001/</guid>
       <description>The purpose of this blog is to take the first steps on my quest to make engineering more accessible. I am fully aware that I will not change the landscape of engineering over night let alone by myself but, I have studied engineering for the past 18 years and what I have found and experienced is that if a scholar of engineering is not careful they can make themselves become obsolete due to the ever changing landscape of the engineering field and the evolution of the general public.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://www.desmondbourgeois.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://www.desmondbourgeois.com/about/</guid>
       <description>I am Assistant Professor and started in August 2020. Before restarting my career in academia I worked for 5 years in the Oil and Gas Industry. My research interest are in nondestructive evaluation (NDE) and welding engineering. I am a NDE technology enthusiast, consume different types of media, and write about how they may apply to my research to increase my understanding. I hope you find these posts to be valuable.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/</link>
+      <link>https://www.desmondbourgeois.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
+      <guid>https://www.desmondbourgeois.com/contact/</guid>
       <description>Twitter - [@_dbourgeois]
 LinkedIn - [Desmond Bourgeois]</description>
     </item>
