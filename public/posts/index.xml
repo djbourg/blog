@@ -6,7 +6,16 @@
     <description>Recent content in Posts on DB PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jun 2022 13:54:26 -0400</lastBuildDate><atom:link href="https://www.desmondbourgeois.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 08:42:32 -0400</lastBuildDate><atom:link href="https://www.desmondbourgeois.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real Time Additive Manufacturing Monitoring with Synchronized X-ray and Ultrasound</title>
+      <link>https://www.desmondbourgeois.com/posts/005/</link>
+      <pubDate>Wed, 22 Jun 2022 08:42:32 -0400</pubDate>
+      
+      <guid>https://www.desmondbourgeois.com/posts/005/</guid>
+      <description>Radiography (x-ray) and ultrasound technology have been two nondestructive evaluation (NDE) techniques that have the ability to provide users with useful volumetric data. The NDE data obtained from these processes can be quite diverse in nature from quantifying defect sizes to measuring microstructural texturing in specific alloys. In addition, radiographic testing (RT) and ultrasonic testing (UT) have been rivals of each other and there is a debate on which one reigns supreme in the NDE community.</description>
+    </item>
+    
     <item>
       <title>Can refractory alloys help build a sustainable moon base?</title>
       <link>https://www.desmondbourgeois.com/posts/004/</link>
@@ -14,6 +23,33 @@
       
       <guid>https://www.desmondbourgeois.com/posts/004/</guid>
       <description>I am a sucker for anything that has to do with space and the cosmos. From trying to understand black holes to the possibility of terraforming Venus is very fascinating to me. So I recently ran across a Kurzgesagt YouTube video (my social media of choice) that talked about building a sustainable colony on the moon [1]. Once I found this video I watched it multiple times, because 1) I enjoy the animation style of Kurzgesagt and 2) the Kurzgesagt team often make videos that allow me to think and imagine how my research can be used for futuristic applications.</description>
+    </item>
+    
+    <item>
+      <title>Retrospect on Angle Beam Ultrasonic Spectroscopy Technology</title>
+      <link>https://www.desmondbourgeois.com/posts/003/</link>
+      <pubDate>Sat, 21 May 2022 06:48:15 -0400</pubDate>
+      
+      <guid>https://www.desmondbourgeois.com/posts/003/</guid>
+      <description>Ultrasonic technology is causing a shift in the nondestructive evaluation (NDE) and testing (NDT) industry. Many companies are moving toward ultrasonic testing (UT) as an alternative to radiographic testing (RT). UT uses ultrasonic waves to perform weld inspection, while RT uses x-rays to perform weld inspection. In my career, I have used more RT than UT for oil and gas weld inspection. This is not to say that RT is better than UT, but there are more UT solutions finding their way into the NDE market.</description>
+    </item>
+    
+    <item>
+      <title>Can X-rays Generated from Black Holes be Used for Nondestructive Evaluation on Welds?</title>
+      <link>https://www.desmondbourgeois.com/posts/002/</link>
+      <pubDate>Sun, 08 May 2022 06:29:48 -0400</pubDate>
+      
+      <guid>https://www.desmondbourgeois.com/posts/002/</guid>
+      <description>I taught a lecture on radiation source in my introduction to nondestructive evaluation (NDE) course in late March 2022. During the lecture I thought to myself, “What if you could use a black hole as your x-ray source?” I know that this idea is far from being possible with today’s current technology and may be a bit controversial. But, I wonder how the NDE industry (particularly radiography) would change if using black holes was feasible.</description>
+    </item>
+    
+    <item>
+      <title>Can modern marketing make engineering more accessible?</title>
+      <link>https://www.desmondbourgeois.com/posts/001/</link>
+      <pubDate>Fri, 29 Apr 2022 06:01:24 -0400</pubDate>
+      
+      <guid>https://www.desmondbourgeois.com/posts/001/</guid>
+      <description>The purpose of this blog is to take the first steps on my quest to make engineering more accessible. I am fully aware that I will not change the landscape of engineering over night let alone by myself but, I have studied engineering for the past 18 years and what I have found and experienced is that if a scholar of engineering is not careful they can make themselves become obsolete due to the ever changing landscape of the engineering field and the evolution of the general public.</description>
     </item>
     
   </channel>
