@@ -6,7 +6,16 @@
     <description>Recent content in Posts on DB PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jun 2022 13:54:26 -0400</lastBuildDate><atom:link href="https://www.desmondbourgeois.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 08:42:32 -0400</lastBuildDate><atom:link href="https://www.desmondbourgeois.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real Time Additive Manufacturing Monitoring with Synchronized X-ray and Ultrasound</title>
+      <link>https://www.desmondbourgeois.com/post/005/</link>
+      <pubDate>Wed, 22 Jun 2022 08:42:32 -0400</pubDate>
+      
+      <guid>https://www.desmondbourgeois.com/post/005/</guid>
+      <description>Radiography (x-ray) and ultrasound technology have been two nondestructive evaluation (NDE) techniques that have the ability to provide users with useful volumetric data. The NDE data obtained from these processes can be quite diverse in nature from quantifying defect sizes to measuring microstructural texturing in specific alloys. In addition, radiographic testing (RT) and ultrasonic testing (UT) have been rivals of each other and there is a debate on which one reigns supreme in the NDE community.</description>
+    </item>
+    
     <item>
       <title>Can refractory alloys help build a sustainable moon base?</title>
       <link>https://www.desmondbourgeois.com/post/004/</link>
