@@ -6,7 +6,16 @@
     <description>Recent content on DB PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jun 2022 08:42:32 -0400</lastBuildDate><atom:link href="https://www.desmondbourgeois.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 21:06:33 -0400</lastBuildDate><atom:link href="https://www.desmondbourgeois.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to connect a digital oscilloscope to a PC via an ethernet cable</title>
+      <link>https://www.desmondbourgeois.com/posts/006/</link>
+      <pubDate>Mon, 10 Oct 2022 21:06:33 -0400</pubDate>
+      
+      <guid>https://www.desmondbourgeois.com/posts/006/</guid>
+      <description>I am in the process of building an ultrasonic imaging lab. One of the main challenges to consistently overcome is connecting standalone units (such as a digital oscilloscope, ultrasonic pulse generator, 3-axis motion controller, etc.) to a central personal computer (PC). Furthermore, once these units are connected to a PC, you then must make them communicate with them via a custom program. In this post we will not get into interfacing all the components together with a custom program.</description>
+    </item>
+    
     <item>
       <title>Real Time Additive Manufacturing Monitoring with Synchronized X-ray and Ultrasound</title>
       <link>https://www.desmondbourgeois.com/posts/005/</link>
