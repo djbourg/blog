@@ -9,9 +9,9 @@ params:
     Content: Hello, I am an Assistant Professor. I like to wirte and my job is to publish. The content that does not make it to the research papers or grants finds a home here. My views are my own.
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://twitter.com/_dbourgeois"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/djbourg"
 
   DateFormat: "January 2, 2006"
 
